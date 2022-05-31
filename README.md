@@ -1,4 +1,4 @@
-# humanperceptualneuroscience.github.io1
+# humanperceptualneuroscience.github.io
 
 ## Project setup
 ```
